@@ -1,0 +1,16 @@
+{
+  "name": "maps3",
+  "version": "1.0.0",
+  "description": "Maps3",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "P. Neighbors",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "input": "^1.0.1"
+  }
+}
